@@ -10,8 +10,8 @@ import numpy as np
 import streamlit as st
 
 # File paths
-model_path = "C:/Users/user/karani/diabetes_Model.sav"
-data_path = "C:/Users/user/karani/diabetes.csv"
+model_path = "diabetes_Model.sav"
+data_path = "diabetes.csv"
 
 # Load the model
 try:
